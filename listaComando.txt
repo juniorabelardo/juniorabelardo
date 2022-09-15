@@ -1,0 +1,8 @@
+//CONFIGURACION DE NOMBRE E IMAIL.
+git config --global user.name "Junior"
+git config --global user.mail juwloquispe18@gmail.com
+git config --list(codigo para verificar la configuracion)
+// para hacer de nuestro proyecto principal de git.
+// primero creamos un archivo llamado README.md (config: //touch README.md//)
+README: Sirve para describir el proyecto...
+EL PROYECTO FINAL : Consiste en crear un portafolio de uno, como un CV.
