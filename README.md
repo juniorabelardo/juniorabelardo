@@ -1,1 +1,3 @@
-!!AVERIGUAR que es el "marck down"s
+!!AVANZAR EN README SOBRE NUESTRO PROYECTO!
+!!AVERIGUAR que es el "MARKDOWN"
+!AVERIGUAR que es el GITHUB"! 
