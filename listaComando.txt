@@ -5,4 +5,4 @@ git config --list(codigo para verificar la configuracion)
 // para hacer de nuestro proyecto principal de git.
 // primero creamos un archivo llamado README.md (config: //touch README.md//)
 README: Sirve para describir el proyecto...
-EL PROYECTO FINAL : Consiste en crear un portafolio de uno, como un CV.
+EL PROYECTO FINAL : Consiste en crear un portafolio de uno, como un CV. 
